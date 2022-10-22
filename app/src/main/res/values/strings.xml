@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth Tracker</string>
+    <string name="bluetooth_not_supported">Bluetooth is not supported!</string>
+    <string name="ble_not_supported">Bluetooth Low Energy is not supported!</string>
+    <string name="textview">TextView</string>
+    <string name="search">search</string>
+</resources>
