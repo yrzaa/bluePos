@@ -1,2 +1,2 @@
 # bluePos
-Detect and locate bluetoorh devices on Android!
+Detect and locate bluetooth devices on Android!
